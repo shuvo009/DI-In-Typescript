@@ -9,6 +9,7 @@ https://www.typescriptlang.org/
 I use Typings to download typescript libraries https://github.com/typings/typings
 <br/>
 I use Inversify as DI Library https://github.com/inversify/InversifyJS
+<br/>
 Inversify required some configuration for typescript. <b><i>Please read tsconfig.json.</i></b>
 
 
